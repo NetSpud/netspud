@@ -19,9 +19,9 @@ If you're interested in seeing the major projects I've worked on, have a peek at
 [netspud.tech](https://netspud.tech)
 
 Contact Information:
-  Email: [hengieuk@gmail.com](mailto:hengieuk@gmail.com)
-  Twitter: [https://twitter.com/netspud](https://twitter.com/netspud)
-  Discord: hengie#3966
+  1. Email: [hengieuk@gmail.com](mailto:hengieuk@gmail.com)
+  2. Twitter: [https://twitter.com/netspud](https://twitter.com/netspud)
+  3. Discord: hengie#3966
 
 Other projects I'm currently working on are:
 
