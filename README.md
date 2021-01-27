@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 If you're interested in seeing the major projects I've worked on, have a peek at my website.
 
-[Netspud.tech](https://netspud.tech)
+[netspud.tech](https://netspud.tech)
 
 Other projects I'm currently working on are:
 
