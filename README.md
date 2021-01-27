@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+If you're interested in seeing the major projects I've worked on, have a peek at my website.
+
+[Netspud.tech](https://netspud.tech)
