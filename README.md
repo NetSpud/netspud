@@ -25,6 +25,6 @@ Contact Information:
 
 Other projects I'm currently working on are:
 
-- [] Redesigning [themorrisagency.co.uk](https://themorrisagency.co.uk)
+- [*] Redesigning [themorrisagency.co.uk](https://themorrisagency.co.uk)
 - [x] Building a CMS system for microgreen growers
 - [x] Maintaining a PWA website for a local dance school
