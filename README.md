@@ -27,4 +27,5 @@ Other projects I'm currently working on are:
 
 - [ ] Redesigning [themorrisagency.co.uk](https://themorrisagency.co.uk)
 - [x] Building a CMS system for microgreen growers
+- [ ] Building another CMS system
 - [x] Maintaining a PWA website for a local dance school
