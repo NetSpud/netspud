@@ -53,5 +53,5 @@ Contact Information:
     <img src='https://github-readme-stats.vercel.app/api?username=netspud&count_private=true&show_icons=true' height='185rem'>
 </a>
 <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=netspud&langs_count=5' height='185rem'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=netspud' height='185rem'>
 </a>
