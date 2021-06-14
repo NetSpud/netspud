@@ -3,7 +3,7 @@
 I'm Edward. I'm a 16 year old who loves kayaking, Morris Dancing and of course, coding!
 
 ### In my free time I'm...
-- Developing my own self hostable item management system
+- Developing my own [self hostable item management system](https://github.com/NetSpud/Stock-Management-System)
 - Enhancing [https://indiegrower.farm](https://indiegrower.farm)'s system
 - Learning TypeScript [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
