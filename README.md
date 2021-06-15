@@ -35,7 +35,7 @@ Contact Information:
 2. [The Morris Agency](https://themorrisagency.co.uk/)
 3. [Positively Arts](https://positivelyarts.org/)
 4. [Dance Warehouse](https://dancewarehouse.info/)
-   1. [Custom PWA](https://dancewarehouseapp.co.uk/)
+   1. Custom PWA
 5. [Indiegrower](https://indiegrower.farm/)
 6. [Kent Urban Kitchen](https://www.kenturbankitchen.co.uk/)
 
