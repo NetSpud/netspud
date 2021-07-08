@@ -42,13 +42,6 @@ Contact Information:
 
 <br>
 
-<!-- Other projects I'm currently working on are:
-
-- [ ] Redesigning [themorrisagency.co.uk](https://themorrisagency.co.uk)
-- [x] Building a CMS system for microgreen growers
-- [ ] Building another CMS system
-- [x] Maintaining a PWA website for a local dance school -->
-
 <a href='https://github.com/anuraghazra/github-readme-stats'>
     <img src='https://github-readme-stats.vercel.app/api?username=netspud&count_private=true' height='250rem'>
 </a>
