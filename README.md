@@ -50,7 +50,7 @@ Contact Information:
 - [x] Maintaining a PWA website for a local dance school -->
 
 <a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src='https://github-readme-stats.vercel.app/api?username=netspud&count_private=true&show_icons=true' height='250rem'>
+    <img src='https://github-readme-stats.vercel.app/api?username=netspud&count_private=true' height='250rem'>
 </a>
 <a href='https://github.com/anuraghazra/github-readme-stats'>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=netspud&langs_count=10' height='250rem'>
