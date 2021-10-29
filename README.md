@@ -4,7 +4,7 @@ I'm Edward. I'm a 16 year old who loves kayaking, Morris dancing and of course, 
 
 ### In my free time I'm...
 - Developing my own [distributed file backup system](https://github.com/NetSpud/friend-backup)
-- Enhancing [https://indiegrower.farm](https://indiegrower.farm)'s system
+- Learning about ReactJS
 - Learning TypeScript [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
 <!--
