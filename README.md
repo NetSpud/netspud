@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Edward. I'm a 16 year old who loves kayaking, Morris dancing and of course, coding!
+I'm Edward. I'm a 17 year old who loves kayaking, Morris dancing and of course, coding!
 
 ### In my free time I'm...
 - Developing my own [distributed file backup system](https://github.com/NetSpud/friend-backup)
