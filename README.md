@@ -37,6 +37,7 @@ Contact Information:
    1. Custom PWA
 4. [Indiegrower](https://indiegrower.farm/)
 5. [Kent Urban Kitchen](https://www.kenturbankitchen.co.uk/)
+6. [Morris Decorating](https://morrisdecorating.co.uk/)
 
 
 <h3 align="left">Connect with me:</h3>
