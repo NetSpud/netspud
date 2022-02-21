@@ -31,13 +31,11 @@ Contact Information:
 4. Discord: hengie#3966
 
 # Projects:
-1. [Steve Beyer Productions](https://stevebeyerproductions.com/)
-2. [The Morris Agency](https://themorrisagency.co.uk/)
-3. [Dance Warehouse](https://dancewarehouse.info/)
+1. [The Morris Agency](https://themorrisagency.co.uk/)
+2. [Dance Warehouse](https://dancewarehouse.info/)
    1. Custom PWA
-4. [Indiegrower](https://indiegrower.farm/)
-5. [Kent Urban Kitchen](https://www.kenturbankitchen.co.uk/)
-6. [Morris Decorating](https://morrisdecorating.co.uk/)
+3. [Kent Urban Kitchen](https://www.kenturbankitchen.co.uk/)
+4. [Morris Decorating](https://morrisdecorating.co.uk/)
 
 
 <h3 align="left">Connect with me:</h3>
