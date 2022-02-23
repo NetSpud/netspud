@@ -27,7 +27,6 @@ Contact Information:
 1. Email: [hengieuk@gmail.com](mailto:hengieuk@gmail.com)
 2. Twitter: [https://twitter.com/netspud](https://twitter.com/netspud)
 3. Linkedin: [https://www.linkedin.com/in/netspud](https://www.linkedin.com/in/netspud)
-4. Discord: hengie#3966
 
 # Projects:
 1. [The Morris Agency](https://themorrisagency.co.uk/)
