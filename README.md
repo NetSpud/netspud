@@ -4,7 +4,7 @@ I'm Edward. I'm a 17 year old who loves kayaking, Morris dancing and of course, 
 
 ### In my free time I'm...
 - Learning [TailwindCSS](https://tailwindcss.com/)
-- Learning TypeScript [https://www.typescriptlang.org](https://www.typescriptlang.org)
+- Learning [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
 <!--
 **NetSpud/netspud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
