@@ -3,7 +3,6 @@
 I'm Edward. I'm a 17 year old who loves kayaking, Morris dancing and of course, coding!
 
 ### In my free time I'm...
-- Learning [TailwindCSS](https://tailwindcss.com/)
 - Learning [https://www.typescriptlang.org](https://www.typescriptlang.org)
 
 <!--
