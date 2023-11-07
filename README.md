@@ -3,7 +3,9 @@
 I'm Edward. I'm a 19 year old who loves kayaking, Morris dancing and of course, coding!
 
 ### In my free time I'm...
-- Learning [https://www.typescriptlang.org](https://www.typescriptlang.org)
+- Volunteering for my local Scout group
+- Building a CMS system for painters and decorators
+
 
 <!--
 **NetSpud/netspud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
