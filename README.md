@@ -33,8 +33,7 @@ Contact Information:
 1. [The Morris Agency](https://themorrisagency.co.uk/)
 2. [Dance Warehouse](https://dancewarehouse.info/)
    1. Custom PWA
-3. [Kent Urban Kitchen](https://www.kenturbankitchen.co.uk/)
-4. [Morris Decorating](https://morrisdecorating.co.uk/)
+3. [Morris Decorating](https://morrisdecorating.co.uk/)
 
 
 <h3 align="left">Connect with me:</h3>
