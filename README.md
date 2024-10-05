@@ -2,10 +2,10 @@
 
 I'm Edward. I'm a 19 year old who loves kayaking, Morris dancing and of course, coding!
 
+
 ### In my free time I'm...
 - Volunteering for my local Scout group
 - Building a CMS system for painters and decorators
-- Studying the BTL1 certificate
 
 
 <!--
