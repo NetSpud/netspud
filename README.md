@@ -98,14 +98,4 @@ Contact Information:
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
    </a>
    </p>
-
-
-
-<br>
-
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src='https://github-readme-stats.vercel.app/api?username=netspud&count_private=true' height='250rem' width="50%">
-</a>
-<a href='https://github.com/anuraghazra/github-readme-stats'>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=netspud&langs_count=10' height='250rem'>
-</a>
+   
