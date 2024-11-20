@@ -1,15 +1,15 @@
 # Hi there 👋
 
-I'm Edward. I'm a 19 year old who loves kayaking, Morris dancing and of course, coding!
+I'm Edward. I'm a 20 year old who loves kayaking, problem solving and cyber security.
 
 
 ### In my free time I'm...
 - Volunteering for my local Scout group
-- Building a CMS system for painters and decorators
+- Studying for the CCNA Certification
+- Building my own homelab
 
 
 <!--
-**NetSpud/netspud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,7 +31,6 @@ Contact Information:
 3. Linkedin: [https://www.linkedin.com/in/netspud](https://www.linkedin.com/in/netspud)
 
 # Projects:
-1. [The Morris Agency](https://themorrisagency.co.uk/)
 2. [Dance Warehouse](https://dancewarehouse.info/)
    1. Custom PWA
 3. [Morris Decorating](https://morrisdecorating.co.uk/)
