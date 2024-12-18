@@ -30,10 +30,8 @@ Contact Information:
 2. Twitter: [https://twitter.com/netspud](https://twitter.com/netspud)
 3. Linkedin: [https://www.linkedin.com/in/netspud](https://www.linkedin.com/in/netspud)
 
-# Projects:
-2. [Dance Warehouse](https://dancewarehouse.info/)
-   1. Custom PWA
-3. [Morris Decorating](https://morrisdecorating.co.uk/)
+
+1. [Morris Decorating](https://morrisdecorating.co.uk/)
 
 
 <h3 align="left">Connect with me:</h3>
